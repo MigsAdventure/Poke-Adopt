@@ -1,5 +1,6 @@
 const db = require('../config/db');
 const squel = require('squel');
+const {get} = require('axios');
 
 const TABLE_NAME = 'Pokemons';
 
@@ -13,6 +14,18 @@ db.query(`CREATE TABLE IF NOT EXISTS ${TABLE_NAME} (
   )`, err => {
     if(err) throw err;
   })
+
+exports.fetchList = (cb) => {
+  get('http://pokeapi.co/api/v2/pokemon/?limit=10&offset=0')
+    .then((res) => {
+      console.log('FetchList: ',res.data);
+      cb(null, res.data)
+    })
+    .catch(err => {
+      console.log('err', err);
+    })
+
+}
 
 exports.fetchAll = function() {
   return new Promise((resolve, reject) => {

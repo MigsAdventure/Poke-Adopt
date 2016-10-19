@@ -25,6 +25,13 @@ router.route('/')
       })
   })
 
+  router.route('/list')
+    .get((req, res) => {
+      Pokemon.fetchList((err, list) => {
+        res.status(err ? 400 : 200).send(err || list);
+      })
+    })
+
   router.route('/:id')
     .put((req,res) => {
       Pokemon.update(req.params.id, req.body)

@@ -1,0 +1,1052 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"TABLE",
+				"TABLE_NAME"
+			],
+			[
+				"re",
+				"require"
+			],
+			[
+				"inde",
+				"indexPath"
+			],
+			[
+				"anime",
+				"animation-delay"
+			],
+			[
+				"background",
+				"background-position"
+			],
+			[
+				"tra",
+				"transition"
+			],
+			[
+				"c",
+				"crosshair"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"bod",
+				"body-parser"
+			],
+			[
+				"body",
+				"bodyParser"
+			],
+			[
+				"Yelp",
+				"YelpActions"
+			],
+			[
+				"get",
+				"getDetails"
+			],
+			[
+				"res",
+				"response"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"results",
+				"resultsObj"
+			],
+			[
+				"Favo",
+				"FavoritesPage"
+			],
+			[
+				"boo",
+				"booleanState"
+			],
+			[
+				"delet",
+				"deleteTask"
+			],
+			[
+				"delte",
+				"deleteTask"
+			],
+			[
+				"de",
+				"deleteTask"
+			],
+			[
+				"is",
+				"isComplete"
+			],
+			[
+				"file",
+				"filteredIsComplete"
+			],
+			[
+				"filt",
+				"filteredIsComplete"
+			],
+			[
+				"edit",
+				"editCategory"
+			],
+			[
+				"id",
+				"id"
+			],
+			[
+				"on",
+				"onClick"
+			],
+			[
+				"Card",
+				"CardStore"
+			],
+			[
+				"_",
+				"_shuffledDeck"
+			],
+			[
+				"an",
+				"answerInput"
+			],
+			[
+				"qu",
+				"questionInput"
+			],
+			[
+				"cat",
+				"categoryInput"
+			],
+			[
+				"filter",
+				"filter"
+			],
+			[
+				"filete",
+				"filteredCategories"
+			],
+			[
+				"fil",
+				"filteredCategories"
+			],
+			[
+				"cate",
+				"categories"
+			],
+			[
+				"dele",
+				"deleteItem"
+			],
+			[
+				"method",
+				"method"
+			],
+			[
+				"query",
+				"querystring"
+			],
+			[
+				"tvshow",
+				"tvShowResults"
+			],
+			[
+				"b",
+				"content-box"
+			],
+			[
+				"bo",
+				"box-sizing"
+			],
+			[
+				"margi",
+				"margin-left"
+			],
+			[
+				"rece",
+				"receiveLocation"
+			],
+			[
+				"Weath",
+				"WeatherActions"
+			],
+			[
+				"Weather",
+				"WeatherStore"
+			],
+			[
+				"We",
+				"WeatherStore"
+			],
+			[
+				"auto",
+				"autoLocation"
+			],
+			[
+				"Wea",
+				"WeatherActions"
+			],
+			[
+				"con",
+				"conditions"
+			],
+			[
+				"ob",
+				"observation_location"
+			],
+			[
+				"city",
+				"city"
+			],
+			[
+				"box",
+				"box-sizing"
+			],
+			[
+				"pokeStats",
+				"pokestats"
+			],
+			[
+				"main",
+				"mainPokemon"
+			],
+			[
+				"paddi",
+				"padding"
+			],
+			[
+				"keyPre",
+				"keypressed"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"card",
+				"CardsStore"
+			],
+			[
+				"player",
+				"playerPoints"
+			],
+			[
+				"class",
+				"className"
+			],
+			[
+				"return",
+				"returnEdit"
+			],
+			[
+				"co",
+				"console"
+			],
+			[
+				"onC",
+				"onClick"
+			],
+			[
+				"task",
+				"taskEdit"
+			],
+			[
+				"Disc",
+				"DiskContainer"
+			],
+			[
+				"r",
+				"React"
+			],
+			[
+				"random",
+				"randomNum"
+			],
+			[
+				"backgro",
+				"background"
+			],
+			[
+				"tran",
+				"translateX()"
+			],
+			[
+				"y",
+				"translateY()"
+			],
+			[
+				"x",
+				"matrix3d()"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"stud",
+				"studentArr"
+			],
+			[
+				"st",
+				"studentArr"
+			],
+			[
+				"s",
+				"studentArr"
+			],
+			[
+				"stu",
+				"studName"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"pa",
+				"padding-bottom"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"box-",
+				"box-sizing"
+			],
+			[
+				"active-",
+				"photopile-active-thumbnail"
+			],
+			[
+				"nav",
+				"navigator"
+			],
+			[
+				"document",
+				"documentElement"
+			],
+			[
+				"docum",
+				"documentElement"
+			],
+			[
+				"autoplay",
+				"autoplayGallery"
+			],
+			[
+				"photopile",
+				"photopile-active-image"
+			],
+			[
+				"photop",
+				"photopile-active-image"
+			],
+			[
+				"pho",
+				"photopile"
+			],
+			[
+				"anim",
+				"animation-duration"
+			],
+			[
+				"animation",
+				"animation-delay"
+			],
+			[
+				"anima",
+				"animation-name"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"curr",
+				"currentBg"
+			],
+			[
+				"cur",
+				"currentBg"
+			],
+			[
+				"curre",
+				"currentImage"
+			],
+			[
+				"bg",
+				"background-image"
+			],
+			[
+				"gif",
+				"gifImages"
+			],
+			[
+				"full",
+				"fullImage"
+			],
+			[
+				"trans",
+				"transform"
+			],
+			[
+				"click",
+				"clickFullImage"
+			],
+			[
+				"backgr",
+				"background-size"
+			],
+			[
+				"animion-",
+				"animation-timing-function"
+			],
+			[
+				"over",
+				"overflow-wrap"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"can",
+				"candyLogo"
+			],
+			[
+				"head",
+				"header\tTag"
+			],
+			[
+				"photo",
+				"photoArray"
+			],
+			[
+				"border-s",
+				"border-bottom-style"
+			],
+			[
+				"in",
+				"infinite"
+			],
+			[
+				"slide",
+				"slideUp"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"bottom",
+				"text-bottom"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"at",
+				"auto"
+			],
+			[
+				"content",
+				"mime_content_type"
+			],
+			[
+				"do",
+				"document"
+			],
+			[
+				"bakground",
+				"background-repeat"
+			],
+			[
+				"mari",
+				"margin-top"
+			],
+			[
+				"margin-",
+				"margin-top"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"border",
+				"border-collapse"
+			],
+			[
+				"pro",
+				"profIconContainer"
+			]
+		]
+	},
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 107.0,
+		"last_filter": "cdnjs",
+		"selected_items":
+		[
+			[
+				"cdnjs",
+				"Cdnjs: Import URL only"
+			],
+			[
+				"script",
+				"Cdnjs: Import Script"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"browser",
+				"Browser Integration: Launch Browser"
+			],
+			[
+				"rename",
+				"File: Rename"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"sidebar",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"inste",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"iTerm.sh",
+			"cd",
+			"cd code",
+			"iTerm.sh",
+			"Package",
+			"Package Control:",
+			"package",
+			"Package",
+			"Package Control",
+			"Package Control: Install Package",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os;",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib2,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); os.makedirs( ipp ) if not os.path.exists(ipp) else None; urllib2.install_opener( urllib2.build_opener( urllib2.ProxyHandler()) ); by = urllib2.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); open( os.path.join( ipp, pf), 'wb' ).write(by) if dh == h else None; print('Error validating download (got %s instead of %s), please try manual install' % (dh, h) if dh != h else 'Please restart Sublime Text to finish installation')",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"Package Control: Install Package",
+			"Package Control",
+			"package control",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"package control"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/Mig/code/Poke-Adopt/server/app.js",
+		"/Users/Mig/code/Poke-Adopt/src/components/MainViewPage.js",
+		"/Users/Mig/code/Poke-Adopt/server/routes/api.js",
+		"/Users/Mig/code/Poke-Adopt/src/AppDispatcher.js",
+		"/Users/Mig/code/Poke-Adopt/.env",
+		"/Users/Mig/code/Poke-Adopt/resetdb.js",
+		"/Users/Mig/code/Poke-Adopt/src/index.js",
+		"/Users/Mig/code/Poke-Adopt/server/models/Owner.js",
+		"/Users/Mig/code/Poke-Adopt/server/routes/owners.js",
+		"/Users/Mig/code/Poke-Adopt/server/routes/pokemons.js",
+		"/Users/Mig/code/Poke-Adopt/server/models/Pokemon.js",
+		"/Users/Mig/code/Poke-Adopt/server/config/db.js",
+		"/Users/Mig/code/HerokuRouter/.env",
+		"/Users/Mig/.bash_profile",
+		"/Users/Mig/.gitignore_global",
+		"/Users/Mig/code/HerokuRouter/index.html",
+		"/Users/Mig/code/HerokuRouter/package.json",
+		"/Users/Mig/code/HerokuRouter/nodemon.json",
+		"/Users/Mig/code/Yelp-API/src/css/style.css",
+		"/Users/Mig/code/Yelp-API/src/components/InputForm.js",
+		"/Users/Mig/code/Yelp-API/src/components/SearchTable.js",
+		"/Users/Mig/code/Yelp-API/src/components/Layout.js",
+		"/Users/Mig/code/Yelp-API/src/stores/YelpStore.js",
+		"/Users/Mig/code/Yelp-API/src/index.js",
+		"/Users/Mig/code/Yelp-API/src/components/FavoritesPage.js",
+		"/Users/Mig/code/Yelp-API/src/components/DetailsPage.js",
+		"/Users/Mig/code/Yelp-API/models/Favorite.js",
+		"/Users/Mig/code/Yelp-API/data/favorites.json",
+		"/Users/Mig/code/Yelp-API/src/components/Home.js",
+		"/Users/Mig/code/Yelp-API/build/index.html",
+		"/Users/Mig/code/Yelp-API/package.json",
+		"/Users/Mig/code/todolist-backend/package.json",
+		"/Users/Mig/code/FullStack-Flashcards2/build/index.html",
+		"/Users/Mig/code/FullStack-Flashcards2/app.js",
+		"/Users/Mig/code/FullStack-Flashcards2/src/index.js",
+		"/Users/Mig/code/FullStack-Flashcards2/webpack.config.js",
+		"/Users/Mig/code/FullStack-Flashcards2/package.json",
+		"/Users/Mig/code/FullStack-Flashcards2/nodemon.json",
+		"/Users/Mig/code/FullStack-Flashcards2/src/components/Layout.js",
+		"/Users/Mig/code/FullStack-Flashcards2/src/components/Home.js",
+		"/Users/Mig/code/FullStack-Flashcards2/src/components/EditModal.js",
+		"/Users/Mig/code/FullStack-Flashcards2/src/components/InputForm.js",
+		"/Users/Mig/code/FullStack-Flashcards2/src/components/Test.js",
+		"/Users/Mig/code/FullStack-Flashcards2/src/css/style.css",
+		"/Users/Mig/code/FullStack-Flashcards2/data/cards.json",
+		"/Users/Mig/code/FullStack-Flashcards2/src/AppDispatcher.js",
+		"/Users/Mig/code/Fullstack-Flashcards/package.json",
+		"/Users/Mig/code/Fullstack-Flashcards/nodemon.json",
+		"/Users/Mig/code/Fullstack-Flashcards/webpack.config.js",
+		"/Users/Mig/code/Fullstack-Flashcards/build/index.html",
+		"/Users/Mig/code/FlashCard-Backend/package.json",
+		"/Users/Mig/code/FlashCard-Backend/data.json",
+		"/Users/Mig/code/FlashCard-Backend/nodemon.json",
+		"/Users/Mig/code/Message-Board/package.json",
+		"/Users/Mig/code/NodePractice/package.json",
+		"/Users/Mig/code/Test3/src/css/style.css",
+		"/Users/Mig/code/Test3/index.html",
+		"/Users/Mig/code/Test3/package.json",
+		"/Users/Mig/code/Test3/src/API.js",
+		"/Users/Mig/code/Test3/src/AppDispatcher.js",
+		"/Users/Mig/code/Test3/webpack.config.js",
+		"/Users/Mig/code/Weather-API/src/css/style.css",
+		"/Users/Mig/code/Weather-API/src/index.js",
+		"/Users/Mig/code/Weather-API/index.html",
+		"/Users/Mig/code/Weather-API/package.json",
+		"/Users/Mig/code/Weather-API/src/AppDispatcher.js",
+		"/Users/Mig/code/Poke-API/src/API.js",
+		"/Users/Mig/code/Poke-API/package.json",
+		"/Users/Mig/code/newProject/src/index.js",
+		"/Users/Mig/code/newProject/package.json",
+		"/Users/Mig/code/newProject/src/components/test.js",
+		"/Users/Mig/code/newProject/readme.md",
+		"/Users/Mig/code/newProject/src/css/style.css",
+		"/Users/Mig/code/newProject/src/AppDispatcher.js",
+		"/Users/Mig/code/Flux-Calculator/src/AppDispatcher.js",
+		"/Users/Mig/code/Flux-Calculator/package.json",
+		"/Users/Mig/code/Flux-Calculator/index.html",
+		"/Users/Mig/code/Test2/src/styles.css",
+		"/Users/Mig/code/Test2/webpack.config.js",
+		"/Users/Mig/code/Test2/index.html",
+		"/Users/Mig/code/Test2/src/index.js",
+		"/Users/Mig/code/Test2/src/Storage.js",
+		"/Users/Mig/code/Test2/src/AppDispatcher.js",
+		"/Users/Mig/code/Test2/package.json",
+		"/Users/Mig/code/BlackJack/src/components/Deck.js",
+		"/Users/Mig/code/BlackJack/src/AppDispatcher.js",
+		"/Users/Mig/code/BlackJack/src/components/Player.js",
+		"/Users/Mig/code/BlackJack/package.json",
+		"/Users/Mig/code/BlackJack/src/components/Dealer.js",
+		"/Users/Mig/code/BlackJack/src/styles.css",
+		"/Users/Mig/code/BlackJack/src/components/Table.js",
+		"/Users/Mig/code/BlackJack/src/actions/CardActions.js",
+		"/Users/Mig/code/BlackJack/src/stores/CardsStore.js",
+		"/Users/Mig/code/BlackJack/src/index.js",
+		"/Users/Mig/code/BlackJack/index.html",
+		"/Users/Mig/code/BlackJack/webpack.config.js",
+		"/Users/Mig/code/Schedule-Tracker/src/components/App.js",
+		"/Users/Mig/code/Schedule-Tracker/src/components/storage.js",
+		"/Users/Mig/code/Schedule-Tracker/build/bundle.js",
+		"/Users/Mig/code/TowersofHanoi/build/bundle.js",
+		"/Users/Mig/code/webpackInto/practiceWebPack.js",
+		"/Users/Mig/Library/Application Support/Sublime Text 3/Packages/User/Terminal (OSX).sublime-settings",
+		"/Users/Mig/Library/Application Support/Sublime Text 3/Packages/User/Terminal.sublime-settings",
+		"/Users/Mig/Downloads/react-intro/index.html",
+		"/Users/Mig/Downloads/react-intro/main.js",
+		"/Users/Mig/main.js",
+		"/Users/Mig/practice.js",
+		"/Users/Mig/index.html",
+		"/Users/Mig/code/index.html",
+		"/Users/Mig/code/studentPicker/index.html",
+		"/Users/Mig/code/studentPicker.js",
+		"/Users/Mig/code/studentPicker.css",
+		"/Users/Mig/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/Mig/code/studentPicker.html",
+		"/Users/Mig/node_modules/cordova/node_modules/cordova-lib/node_modules/npm/lib/config/defaults.js",
+		"/Users/Mig/Desktop/Websites/StoryQuest/normalize.css",
+		"/Users/Mig/Desktop/practice.js",
+		"/Users/Mig/Desktop/Websites/CodeMig/index.html",
+		"/Users/Mig/Desktop/Websites/Migsidea/index.html",
+		"/Users/Mig/Desktop/Websites/Migsidea/portfolio.css",
+		"/Users/Mig/Desktop/Websites/Migsidea/portfolio.js",
+		"/Users/Mig/Desktop/Websites/Migsidea/animate.css",
+		"/Users/Mig/Desktop/Websites/Javascript Exercises/index.html",
+		"/Users/Mig/Desktop/Websites/Javascript Exercises/exercises.js",
+		"/Users/Mig/Documents/5th year/jquery.ui.touch-punch.min.js",
+		"/Users/Mig/Documents/5th year/picGen.js",
+		"/Users/Mig/Desktop/Websites/RaveCandy2016/animate.css",
+		"/Users/Mig/Desktop/Websites/Apps/RaveCandyApp/www/Flashlight.js"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"browserHistory",
+			"Home",
+			"Route",
+			"></",
+			"load",
+			"migsdatabase",
+			"ThatCodingLife12",
+			"api",
+			"connection",
+			"Connection",
+			"connection",
+			"Player",
+			"players",
+			"anime",
+			"pokemon",
+			"-image",
+			"dotenv",
+			"favicon",
+			"SearchForm",
+			"_removeShot",
+			"SearchStore",
+			"GifActions",
+			"card",
+			"Card",
+			"card",
+			"Card",
+			"card",
+			"deleteCard",
+			"cards",
+			"Cards",
+			"cards",
+			"Cards",
+			"cards",
+			"Cards",
+			"cards",
+			"Cards",
+			"cards",
+			"Card",
+			"card",
+			"Card",
+			"cards",
+			"Card",
+			"card",
+			"Card",
+			"sendNewCard",
+			"delFav",
+			"deleteCard",
+			"playgroundGifContainer",
+			"GifPlayground",
+			"SearchStore",
+			"GifActions",
+			"SearchStore",
+			"gif",
+			"SearchStore",
+			"GifActions",
+			"questionInput",
+			"businessInput",
+			"categoryInput",
+			"CardActions",
+			"ScreenShots",
+			"GifPlayground",
+			"SearchStore",
+			"screenshots",
+			"gifplayground",
+			"CardActions",
+			"deleteTask",
+			"updatetask",
+			"false",
+			"Categories",
+			"categories",
+			"Categories",
+			"categories",
+			"Categories",
+			"categories",
+			"card",
+			"Card",
+			"card",
+			"Card",
+			"card",
+			"Card",
+			"card",
+			"Card",
+			"card",
+			"Card",
+			"card",
+			"tasks",
+			"deleteItem",
+			"items",
+			"newItem",
+			"Cards",
+			"cards",
+			"Card",
+			"card",
+			"Card",
+			"card",
+			"Card",
+			"card",
+			"Card",
+			"deleteCard",
+			"Card",
+			"card",
+			"Card",
+			"cards",
+			"Card",
+			"card",
+			"Card",
+			"card",
+			"Card",
+			"card",
+			"Card",
+			"card",
+			"Card",
+			"tabindex",
+			"Category",
+			"class",
+			"categoryInput",
+			"newCardInput",
+			"Question",
+			" let path = this.props.location.pathname;",
+			"h1",
+			";\n",
+			"randomQuestion",
+			"    if (err) return res.status(400).send(err);",
+			"filteredcategory",
+			"filteredCategory",
+			"updateItem",
+			"updatedItem",
+			"updateItem"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"\"maxHPLvl\"",
+			"\"minHPLvl\"",
+			"\"minCP\" : \"\",",
+			"maxCP",
+			"minCP",
+			"newCP",
+			"\\n #",
+			"}]},\\n \\n",
+			"}]},\\n",
+			"}]},[\\n]",
+			"}]},[\\/n\\]",
+			"[/n]",
+			"\"10%\",",
+			"",
+			"\"9%\",",
+			"\"8%\",",
+			"\"7%\",",
+			"\"40%\",",
+			"\"16%\",",
+			"\"5%\",",
+			"\"4%\",",
+			"\"Evolve\" : \"None\"",
+			"",
+			"\"Egg\" : \"10km\",",
+			"\"Egg\" : \"5km\",",
+			"\"Egg\" : \"2km\",",
+			"\"Evolve\" : \"100 Candy\"",
+			"\"Evolve\" : \"50 Candy\"",
+			"\"Evolve\" : \"25 Candy\"",
+			"\"Egg\" : \"Not in Eggs\",",
+			"\"Evolve\" : \"25 Candy\"",
+			"\"Evolve\" : \"50 Candy\"",
+			"\"Evolve\" : \"25 Candy\"",
+			"\"Evolve\" : \"50 Candy\"",
+			"\"Candy\" : \"50 Candy\"",
+			"\"Candy\" : \"25 Candy\"",
+			"\"Egg\" : \"Not in Eggs\",",
+			"Flee-Rate",
+			"Catch-Rate",
+			"Max-CP",
+			"Defense",
+			"Attack",
+			"Hit-Points",
+			"Number",
+			"number",
+			"</br>number",
+			"evolutionBar",
+			"cpCalcBar",
+			"\"flee-rate\" :",
+			"\"catch-rate\" :",
+			"\"max-cp\" :",
+			"\"defense\" :",
+			"\"attack\"",
+			"\"hit-points\"",
+			"\"number\"",
+			"attack :",
+			"attack : ",
+			"hitPoints : ",
+			"number : ",
+			"",
+			"div"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				0,
+				1,
+				1,
+				2
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			0.5,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 191.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
