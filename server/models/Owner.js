@@ -7,7 +7,6 @@ db.query(`CREATE TABLE IF NOT EXISTS ${TABLE_NAME} (
   ownerName VARCHAR(100),
   ownerAddress VARCHAR(200),
   ownerPhone INT(100),
-  ownerId INT,
   id INT NOT NULL AUTO_INCREMENT,
   PRIMARY KEY (id)
   )`, err => {
@@ -35,7 +34,7 @@ exports.create = function(owner) {
   }
 
   return new Promise((resolve, reject) => {
-    let sql = squel.insert().into(TABLE_NAME).setFields(owner).toString();
+    let sql = squel.insert().into(TABLE_NAME).setFields(newOwner).toString();
 
     db.query(sql, (err, result) => {
       if(err) return reject(err);

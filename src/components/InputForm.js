@@ -8,7 +8,7 @@ export default class InputForm extends Component {
   render() {
     return (
       <div>
-        <h1>InputForm</h1>
+
       </div>
       )
   }

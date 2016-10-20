@@ -2,6 +2,7 @@ import {EventEmitter} from 'events';
 import AppDispatcher from '../AppDispatcher';
 
 let _allPokemon = [];
+let _adoptedPokemon = [];
 
 class PokemonStore extends EventEmitter {
   constructor() {
@@ -24,6 +25,24 @@ class PokemonStore extends EventEmitter {
           this.emit('CHANGE')
         }break;
 
+        case 'RECEIVE_ADOPTED_POKEMON': {
+          console.log('WHS', payload.adoptedPokemon.data)
+           let poke = payload.adoptedPokemon.data.map((adopted, i) => {
+              let adopt = 
+               {
+                pokeName: adopted.name,
+                ownerName: adopted.ownerName,
+                image: adopted.image,
+                ownerId: adopted.ownerId,
+                ownerAddress: adopted.ownerAddress,
+                ownerPhone: adopted.ownerPhone
+              }
+              return adopt;
+            })
+          _adoptedPokemon = poke;
+          this.emit('CHANGE');
+        }break;
+
       }//end of switch
     })//end of appDispatcher
   }//end of constructor
@@ -40,9 +59,11 @@ class PokemonStore extends EventEmitter {
     return _allPokemon;
   }
 
+  getAdoptedPokemon() {
+    return _adoptedPokemon;
+  }
+
 
 }
-
-
 
 export default new PokemonStore();

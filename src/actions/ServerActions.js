@@ -8,6 +8,13 @@ const ServerActions = {
     })
   },
 
+  receiveAdoptedPokemon(adoptedPokemon) {
+    AppDispatcher.dispatch({
+      type: 'RECEIVE_ADOPTED_POKEMON',
+      payload: {adoptedPokemon}
+    })
+  }
+
 
 }
 

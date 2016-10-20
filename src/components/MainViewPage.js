@@ -11,7 +11,7 @@ export default class MainViewPage extends Component {
     return (
       <div>
         <h1>
-          mainViewPage
+  
         </h1>
         <InputForm/>
         <Table/>

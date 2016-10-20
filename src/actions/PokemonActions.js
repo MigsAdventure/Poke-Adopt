@@ -7,7 +7,12 @@ const PokemonActions = {
 
   adoptedPokemon(pokePackage) {
     API.adoptedPokemon(pokePackage);
-  }
+  },
+
+  fetchAdoptedPokemon() {
+    API.fetchAdoptedPokemon();
+  },
+
 }
 
 export default PokemonActions;

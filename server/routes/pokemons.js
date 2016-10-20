@@ -15,12 +15,14 @@ router.route('/')
   })
 
   .post((req, res) => {
+    console.log('pokemonbod: ', req.body)
     Pokemon.create(req.body)
       .then(Pokemon.fetchAll)
       .then(pokemons => {
         res.send(pokemons)
       })
       .catch(err => {
+        console.log('ERRR on POST: ', err);
         res.status(400).send(err);
       })
   })
@@ -31,6 +33,14 @@ router.route('/')
         res.status(err ? 400 : 200).send(err || list);
       })
     })
+
+    router.route('/adopted')
+      .get((req, res) => {
+        Pokemon.fetchAdopted( 'Pokemons',(err, adoptedList) => {
+          res.status(err ? 400 : 200).send(err || adoptedList)
+        })
+      })
+
 
   router.route('/:id')
     .put((req,res) => {

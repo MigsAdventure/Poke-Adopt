@@ -7,8 +7,29 @@
 
 body {
   text-align: center;
+  background-color:skyblue;
 }
 
 ul {
   text-align: center;
+}
+
+
+
+input {
+  width: 80%;
+  margin:1em auto;
+}
+
+#bg {
+  position: absolute;
+  height:100%;
+  width:100%;
+  background-position: center center;
+  background-size:cover;
+  background-image: url('http://s3.amazonaws.com/digitaltrends-uploads-prod/2016/02/pokemon.jpg');
+}
+
+button  {
+  margin:5px;
 }
