@@ -4,7 +4,9 @@ const squel = require('squel');
 const TABLE_NAME = 'Owners';
 
 db.query(`CREATE TABLE IF NOT EXISTS ${TABLE_NAME} (
-  name VARCHAR(100),
+  ownerName VARCHAR(100),
+  ownerAddress VARCHAR(200),
+  ownerPhone INT(100),
   ownerId INT,
   id INT NOT NULL AUTO_INCREMENT,
   PRIMARY KEY (id)
@@ -26,6 +28,12 @@ exports.fetchAll = function() {
 }
 
 exports.create = function(owner) {
+  let newOwner = {
+    ownerName: owner.ownerName,
+    ownerPhone: owner.ownerPhone,
+    ownerAddress: owner.ownerAddress,
+  }
+
   return new Promise((resolve, reject) => {
     let sql = squel.insert().into(TABLE_NAME).setFields(owner).toString();
 

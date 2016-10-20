@@ -10,23 +10,6 @@ db.query('drop table Pokemons', err => {
 require('./server/models/Owner')
 require('./server/models/Pokemon')
 
-let pokemonSql = squel.insert().into('Pokemons').setFieldsRows([
-  {name: 'Pikachu'},
-  {name: 'Charmander'}
-  ]).toString();
-
-  db.query(pokemonSql, err => {
-    if(err) throw err;
-  });
-
-let ownerSql = squel.insert().into('Owners').setFieldsRows([
-  {name: 'Mig'},
-  {name: 'steve'}
-  ]).toString();
-
-db.query(ownerSql, err => {
-  if(err) throw err;
-});
 
   db.end(() => console.log('Database Reseted!!'));
 })

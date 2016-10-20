@@ -12,6 +12,14 @@ const API = {
           console.log(err);
        })
   },
+
+  adoptedPokemon(pokePackage) {
+    axios.post('/api/owners', pokePackage)
+      .then(res => {
+        console.log('API:', res);
+        ServerActions.receiveAdoptedPokemon(res);
+      })
+  },
 }
 
 export default API;
